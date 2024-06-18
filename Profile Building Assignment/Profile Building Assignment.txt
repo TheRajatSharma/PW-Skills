@@ -1,1 +1,12 @@
+Q1: What is the difference between UI and UX? Explain in your own words.
+Answer: UI, or User Interface, is about the look and feel of a product, like a website or an app. It's what you see and interact with on the screen: the buttons, the text, the images, the layout. UI is all about making things look nice and easy to use. UX, or User Experience, is about how you feel when you're using that product. It's about making sure the whole process of using the website or app is smooth, enjoyable, and meets your needs. UX involves thinking about the user's journey from start to finish, making sure everything works well together, and solving any problems that might come up. In short, UI is what you see and touch, while UX is how you feel and what you experience when you use it.
 
+Q2: Who is a frontend developer? Explain the roles and responsibilities in your own words.
+Answer: A frontend developer is like a builder for what you see and interact with on websites and apps. They use languages like HTML, CSS, and JavaScript to create the layout, design, and functionality that users experience directly. Their main job is to make sure the website or app looks good and works smoothly for anyone using it. They collaborate closely with designers and backend developers to bring everything together seamlessly. They might also focus on making sure the site works well on different devices and browsers.
+
+Q3: Who is a backend developer? Explain the roles and responsibilities in your own words.
+Answer: A backend developer is like the behind-the-scenes architect of a website or application. They work on the server-side of things, which means they handle the logic, database interactions, and server operations that make the frontend work. Their main responsibilities include writing code in languages like Python, Java, Ruby, or PHP to manage and organize data, ensure security, and handle user authentication. They create APIs (Application Programming Interfaces) that allow the frontend and backend to communicate with each other. They also optimize the performance of the server and database to ensure the application runs smoothly, even with a large number of users.
+
+Q4: Create your own GitHub & LinkedIn accounts. Share the screenshot of both of your accounts and share your profile links of GitHub & LinkedIn in the solution.
+Answer: GitHub: https://github.com/TheRajatSharma/
+        LinkedIn: https://www.linkedin.com/in/therajatsharma/
