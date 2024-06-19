@@ -1,1 +1,10 @@
+Q1: List all the tools you might use as a web developer.
+Answer: 1) Text Editors and Integrated Development Environments (IDEs): Visual Studio Code
+        2) Version Control Systems (VCS): Git, GitHub (for hosting repositories)
+        3) Web Browsers: Google Chrome
+        4) Graphics and Design Tools: Adobe XD, Figma
+        5) Browser Developer Tools: Chrome DevTools
 
+Q2: What are some of the features of PW Skills Online Lab? Explain how they are useful.
+Answer: 1) The Lab eliminates the need for learners to have powerful computers. By providing the necessary hardware through the cloud, it allows anyone with a basic PC and internet connection to participate in advanced             courses like programming. This makes tech education more accessible and removes a financial barrier.
+2) PW Skills Online Lab provides an extensive range of technologies and programming languages within its cloud environment. Users have access to prominent choices such as Python, Java, and C++, alongside frameworks like Node.js. For database operations, both MySQL and MongoDB are available. The platform hints at supporting other options like Ruby and Swift. This broad selection ensures that developers can leverage the tools           necessary to support their coding endeavors effectively.
