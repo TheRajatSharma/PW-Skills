@@ -10,3 +10,6 @@ Answer: A backend developer is like the behind-the-scenes architect of a website
 Q4: Create your own GitHub & LinkedIn accounts. Share the screenshot of both of your accounts and share your profile links of GitHub & LinkedIn in the solution.
 Answer: GitHub: https://github.com/TheRajatSharma/
         LinkedIn: https://www.linkedin.com/in/therajatsharma/
+
+Q5: Write your first blog on your favorite platform and share the link to the blog. (You can choose any topic for writing your 1st blog)
+Answer: https://rajatsharma.hashnode.dev/understanding-html-the-language-of-web-pages
