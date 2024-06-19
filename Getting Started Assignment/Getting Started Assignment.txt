@@ -1,1 +1,18 @@
+Q1: Why do we start learning a programming language with "Hello, World!"?
+Answer: Starting with "Hello, World!" when learning a programming language is like learning the ABCs before diving into reading books. It's the first step that introduces you to the basic building blocks of writing code. By creating a simple program that prints "Hello, World!" on the screen, beginners get a feel for how the language works—how to structure commands, handle syntax, and see immediate results. It's also a tradition in programming tutorials because it's straightforward yet essential. This small achievement boosts confidence and motivates learners to explore further.
 
+Q2: How is the use of comments and how do you write comments in HTML?
+Answer: Comments in HTML are like sticky notes for developers. They're bits of text you can write directly into your code to explain what's going on. When you write a comment in HTML, it won't show up on the actual webpage—it's just there for anyone reading the code. To write a comment in HTML, you use <!-- to start the comment and --> to end it. Anything in between these markers is ignored by the browser.
+
+Q3: What are elements, tags, and attributes, and the difference between them.
+Answer: 1) Elements: Think of elements as the basic building blocks of a webpage. Each element represents a different part of the content, like a paragraph (<p>), an image (<img>), or a link (<a>).
+2) Tags: Tags are like labels that define where each element begins and ends. They're always enclosed in angle brackets (<>). For example, <p> starts a paragraph, and </p> ends it.
+3) Attributes: Attributes give extra information about an element. They're added to the opening tag and provide details that aren't part of the visible content. For instance, the href="https://example.com" attribute in an <a> tag tells the browser where to go when the link is clicked.
+
+Difference:
+1) Elements are the whole package, including tags, content, and attributes.
+2) Tags are the markers that define the beginning and end of an element's content.
+3) Attributes provide extra details about an element, like links or image sources.
+
+Q4: Briefly explain what HTML entities are.
+Answer: HTML entities are codes used to represent special characters in HTML that have specific meanings or are difficult to type directly. These codes start with & and end with ;. They are used to display characters like <, >, & in web pages. HTML entities ensure that these characters appear correctly across different browsers and devices, helping maintain consistency in how content is displayed on the web.
