@@ -1,1 +1,8 @@
+Q1: What is CSS and why use it?
+Answer: CSS, or Cascading Style Sheets, is what web developers use to make websites look good. It's like the stylist for HTML, which is the structure of a webpage. With CSS, you can control how everything looks: the colors, fonts, spacing, and where things are positioned on the page. The main reason we use CSS is to create attractive and consistent designs across different web pages. It also helps make websites more accessible and user-friendly by allowing customization for different devices and screen sizes.
 
+Q2: What are the different ways to bring CSS into an HTML file?
+Answer: We bring CSS into an HTML file using a few methods. We can apply styles directly to HTML elements using the 'style' attribute within the tags themselves. Another method is embedding CSS within a <style> tag in the HTML's <head> section. Additionally, we can create a separate CSS file with a .css extension and link it to our HTML file using the <link> tag in the <head> section.
+
+Q3: What do you mean by specificity in CSS?
+Answer: Specificity in CSS refers to how browsers decide which styles to apply when there are conflicting rules for the same element. It's based on the type of selectors used: inline styles have the highest specificity, followed by ID selectors, class selectors, attribute selectors, pseudo-classes, element selectors, and finally, universal selectors. This hierarchy ensures that styles are applied in a predictable manner, helping developers control the appearance of their web pages effectively.
