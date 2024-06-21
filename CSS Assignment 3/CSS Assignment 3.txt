@@ -1,1 +1,13 @@
+Q1: Why is it called a pseudo-class?
+Answer: A "pseudo-class" is named as such because it is not a real class in the traditional sense of HTML and CSS. Instead, it is a special keyword that allows you to style elements based on certain states or conditions that cannot be represented by regular classes or IDs. For example, ':hover' is a pseudo-class that allows you to style an element when a user hovers over it with their mouse. Similarly, ':focus' styles an element when it has keyboard focus, and ':first-child' styles an element that is the first child of its parent.
 
+Q2: What are gradients in CSS?
+Answer: Gradients in CSS are like smoothly blending colors together on a webpage. They create a gradual shift from one color to another, making things look nicer. You can use gradients to give elements like buttons or boxes a stylish, modern appearance by adding depth and a cool visual effect to their backgrounds or borders.
+
+Q3: What are different types of transitions in css?
+Answer: transitions are effects that control how properties change from one state to another.
+1) Color transitions: Smoothly changes the color of an element over time.
+2) Opacity transitions: Gradually make an element more or less transparent.
+3) Transform transitions: Animates transformations like rotations, scaling, or translations.
+4) Width and height transitions: Animates changes in an element's size.
+5) Border transitions: Animates changes in border properties like width, color, or style.
