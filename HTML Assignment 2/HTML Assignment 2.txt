@@ -16,19 +16,19 @@ GET Method: It retrieves data from the server by adding it to the URL as paramet
 POST Method: It sends data to the server in a separate part of the request called the body. This method is preferred for sending sensitive information like passwords or financial details because the data is not exposed in the URL. POST requests have no size limitations compared to GET requests and are more secure for transmitting confidential data.
 
 Q4: List all the input types we have in forms.
-Answer: Text input (type="text") for single-line text entry.
-Password input (type="password") for securely entering passwords.
-Checkbox (type="checkbox") and radio buttons (type="radio") for selecting options from a list.
-Number (type="number") for entering numeric values.
-Range (type="range") for selecting a numeric value within a specified range using a slider.
-Date (type="date") and time (type="time") pickers for selecting dates and times.
-Datetime-local (type="datetime-local") for combined date and time input.
-Email (type="email") and URL (type="url") for ensuring correct formatting of email addresses and URLs.
-File (type="file") for uploading files from the user's device.
-Color (type="color") for selecting colors using a color picker.
-Submit (type="submit") button to submit form data to the server.
-Reset (type="reset") button to reset form fields to their initial values.
-Hidden (type="hidden") input type to store data not displayed to users but submitted with the form.
+Answer: 1) Text input (type="text") for single-line text entry.
+2) Password input (type="password") for securely entering passwords.
+3) Checkbox (type="checkbox") and radio buttons (type="radio") for selecting options from a list.
+4) Number (type="number") for entering numeric values.
+5) Range (type="range") for selecting a numeric value within a specified range using a slider.
+6) Date (type="date") and time (type="time") pickers for selecting dates and times.
+7) Datetime-local (type="datetime-local") for combined date and time input.
+8) Email (type="email") and URL (type="url") for ensuring correct formatting of email addresses and URLs.
+9) File (type="file") for uploading files from the user's device.
+10) Color (type="color") for selecting colors using a color picker.
+11) Submit (type="submit") button to submit form data to the server.
+12) Reset (type="reset") button to reset form fields to their initial values.
+13) Hidden (type="hidden") input type to store data not displayed to users but submitted with the form.
 
 
 
