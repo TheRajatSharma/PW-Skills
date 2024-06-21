@@ -1,1 +1,16 @@
+Q1: What is padding and margin and when do you use them?
+Answer: Padding and margin are two important concepts in CSS that help create space around elements on a webpage. Padding is the space inside an element, between its content and its border. It's like adding cushioning inside a box to separate the content from the edges. Margin, on the other hand, is the space outside an element, around its border. It's like the distance between one box and another nearby box. We use padding to give elements more room inside, ensuring content doesn't touch the edges. Margins are used to create space between elements, preventing them from being too close together on the webpage.
+
+Q2: What is display property and explain display inline, block, and inline-block?
+Answer: The display property in CSS decides how elements appear on a webpage.
+1) 'display: inline:' Inline elements don't start new lines and only use the space they need. They're good for elements like links or small bits of text.
+2) 'display: block:' Block elements start new lines and take up the full width available. They're used for bigger elements that need their own space, like paragraphs or headings.
+3) 'display: inline-block:' Inline-block elements behave like inline elements, but you can control their width and height like block elements. They can sit next to each other horizontally, useful for making grids or arranging elements side by side.
+
+Q3: Explain min-height, min-width, max-height, and max-width in CSS?
+Answer: 1) 'min-height' sets the smallest height an element can be. It ensures the element won't get shorter than this size, even if there's not much content inside.
+2) 'min-width' sets the smallest width an element can have. It prevents the element from becoming narrower than this size, which is important for keeping text readable.
+3) 'max-height' limits the tallest an element can become. It stops the element from growing too tall, which could cause it to overflow and create scrollbars.
+4) 'max-width' limits the widest an element can become. It prevents the element from getting too wide, maintaining a neat layout on the webpage.
+
 
