@@ -1,1 +1,8 @@
+Q1: Why CSS selectors are used in HTML?
+Answer: CSS selectors are used in HTML to style specific elements efficiently and consistently. They allow developers to target elements based on their type (like headings or paragraphs), classes (for multiple elements with the same style), IDs (for unique elements), and other attributes. By using selectors, developers can create a cohesive design across a website, making it easier to manage and update styles.
 
+Q2: What are the different types of Selectors in CSS?
+Answer: CSS selectors are tools used in web development to target specific HTML elements for styling. They include selectors like type selectors (e.g., 'h1', 'p'), class selectors (e.g., '.className'), ID selectors (e.g., '#idName'), universal selector ('*'), attribute selectors (e.g., '[type="text"]'), pseudo-classes (e.g., ':hover', ':first-child'), pseudo-elements (e.g., '::before', '::after'), and combinators (e.g., descendant, child, adjacent sibling, general sibling). Each selector type allows developers to apply styles selectively and precisely across different elements on web pages.
+
+Q3: How do you include external fonts and apply them?
+Answer: Including external fonts in web development involves linking to font sources through <link> tags in the HTML <head> section. This allows developers to import fonts from services like Google Fonts or other providers. In CSS, the 'font-family' property is then used to apply these imported fonts to specific elements on web pages. This approach enables customization of typography to enhance the visual design and readability of websites
