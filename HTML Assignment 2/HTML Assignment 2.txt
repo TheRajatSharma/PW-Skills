@@ -1,1 +1,34 @@
+Q1: Explain the Table and its properties.
+Answer: A <table> is used to structure and display data in rows and columns. It's like a spreadsheet where each row (<tr>) represents a horizontal set of cells, and within each row, cells (<td> for data or <th> for headers) are organized into columns. The <table> tag serves as the container for the entire table structure. Inside it, <tr> tags define rows, and within each <tr>, you place <td> or <th> tags to create data or header cells, respectively. Header cells (<th>) are typically used to label columns or rows and are often displayed in bold to distinguish them from regular data cells (<td>), which contain the actual content of the table. Attributes such as 'border,' 'width,' 'cellpadding,' 'cellspacing,' and align can be added to the <table> tag to control the appearance and layout of the table.
+
+Q2: Explain all Media elements and how they work.
+Answer: In web design, media elements like images, audio, and video are important for creating engaging content.
+1) Images (<img>):
+Images are inserted into web pages using the <img> tag. They enhance visual appeal and provide important information. For example, a travel website might use images of destinations to attract visitors. The 'src' attribute specifies the image file's location, while 'alt' provides a description for accessibility and if the image fails to load.
+2) Audio (<audio>):
+The <audio> tag embeds audio content directly on web pages. This could be music, podcasts, or any audio material. Developers specify the audio file using the 'src' attribute. Including 'controls' allows users to play, pause, adjust volume, and navigate through the audio clip without leaving the webpage.
+3) Video (<video>):
+The <video> tag embeds video content into web pages. It supports various formats, such as MP4, WebM, and Ogg. The 'src' attribute specifies the video file, while 'controls' adds playback controls like play, pause, and volume adjustment directly to the video player. This makes it easy for users to interact with the video content seamlessly.
+
+Q3: What is Get and Post in Form?
+Answer: In web development, GET and POST are two different ways to send data from a web form to a server.
+GET Method: It retrieves data from the server by adding it to the URL as parameters. This method is useful for requests where data visibility in the URL is not a concern, such as search queries. It has limitations on the amount of data that can be sent and is less secure for sensitive information since data is visible in the URL.
+POST Method: It sends data to the server in a separate part of the request called the body. This method is preferred for sending sensitive information like passwords or financial details because the data is not exposed in the URL. POST requests have no size limitations compared to GET requests and are more secure for transmitting confidential data.
+
+Q4: List all the input types we have in forms.
+Answer: Text input (type="text") for single-line text entry.
+Password input (type="password") for securely entering passwords.
+Checkbox (type="checkbox") and radio buttons (type="radio") for selecting options from a list.
+Number (type="number") for entering numeric values.
+Range (type="range") for selecting a numeric value within a specified range using a slider.
+Date (type="date") and time (type="time") pickers for selecting dates and times.
+Datetime-local (type="datetime-local") for combined date and time input.
+Email (type="email") and URL (type="url") for ensuring correct formatting of email addresses and URLs.
+File (type="file") for uploading files from the user's device.
+Color (type="color") for selecting colors using a color picker.
+Submit (type="submit") button to submit form data to the server.
+Reset (type="reset") button to reset form fields to their initial values.
+Hidden (type="hidden") input type to store data not displayed to users but submitted with the form.
+
+
 
