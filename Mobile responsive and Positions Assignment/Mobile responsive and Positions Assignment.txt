@@ -1,1 +1,13 @@
+Q1: What is position property in CSS and its type?
+Answer: The 'position' property in CSS decides where an element is placed on a webpage. Normally, elements follow the natural order of the document. With 'relative', an element moves from its original spot. 'Absolute' places an element based on its closest positioned parent, or the window if none exist. 'Fixed' keeps an element in the same spot on the screen even when you scroll. 'Sticky' starts as 'relative' but becomes 'fixed' when you scroll to a certain point.
 
+Q2: How many types of positioning are there in CSS?
+Answer: There are five types of positioning in CSS:
+1) Static: Elements are placed in the normal order on the page.
+2) Relative: Elements are moved from their normal spot.
+3) Absolute: Elements are placed based on their closest positioned parent, or the window if none.
+4) Fixed: Elements stay in the same spot on the screen even when scrolling.
+5) Sticky: Elements act like relative until you scroll to a certain point, then they stick in place like fixed.
+
+Q3: What is Z-index and why to use it?
+Answer: The 'z-index' property in CSS controls which elements appear on top of others when they overlap. It only works on elements with a 'relative', 'absolute', 'fixed', or 'sticky' position. Using 'z-index', you can make sure important things like menus or pop-up windows are visible above other content.
