@@ -1,1 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+
+/* section{
+    background-image: url(bg.png);
+    background-size: cover;
+    text-align: center;
+    height: 89vh;
+    align-items: center;
+    
+} */
+
+section {
+    background-image: url('bg.png');
+    background-size: cover; /* This ensures the image covers the entire section */
+    background-position: center; /* This centers the image */
+    text-align: center;
+    height: 89vh; /* Adjust this if you need a different height */
+}
+
+
+header{
+    padding: 31px 83px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    
+}
+
+.line{
+    background-color: white;
+    width: 1px;
+    height: 40px;
+    margin: 0px 0px 0px 63px;
+}
+
+.grow-list {
+    flex-grow: 1;
+  }
+
+
+
+ul{
+    display: flex;
+    gap: 63px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 592px;
+    
+   
+}
+
+li{
+    list-style: none;
+    font-weight: 600;
+    font-size: 16px;
+    justify-content: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 92px;
+    height: 32px;
+  }
+
+button{
+    background-color: #ba0cc5;
+    padding: 7px 28px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600px;
+    border-radius: 6px;
+    border: none;
+    
+}
+
+h1{
+    padding-top: 172px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 98px;
+    max-width: 846px;
+    margin: 0 auto;
+    color: white
+    
+    
+    
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    color: white
+}
+
+.big-button{
+    background-color: #ba0cc5;
+    padding: 14px 22px;
+    color: white;
+    font-size: 29.9487px;
+    font-weight: 600;
+    border-radius: 11.2308px;
+    line-height: 45px;
+    border: none;
+    margin-top: 64px;
+    
+}
+
 
